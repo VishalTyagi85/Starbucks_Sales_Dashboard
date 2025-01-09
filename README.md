@@ -30,4 +30,4 @@ For a detailed view of the dashboard, [click here to view the PDF version](https
 ## Contact  
 Feel free to reach out for any queries or collaborations:  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="20"> **Email**: [tyagivishal8583@gmail.com](mailto:tyagivishal8583@gmail.com)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn Logo" width="20"> **LinkedIn**: [https://www.linkedin.com/in/vishal-tyagi00](https://www.linkedin.com/in/vishal-tyagi00)  
