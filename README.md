@@ -13,7 +13,7 @@ This project is a **Starbucks Sales Dashboard** built using **Power BI** to anal
   - Breakdown of sales trends to understand performance patterns.  
 
 ## Technology Used  
-- ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) **Power BI** for creating the interactive sales dashboard.  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="80"> **Power BI** for creating the interactive sales dashboard.  
 
 ## How to Use  
 1. Open the `Starbusks Sales Dashboard.pbix` file in **Power BI Desktop** to explore the interactive dashboard.  
@@ -29,5 +29,5 @@ For a detailed view of the dashboard, [click here to view the PDF version](https
 
 ## Contact  
 Feel free to reach out for any queries or collaborations:  
-- ![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png) **Email**: [tyagivishal8583@gmail.com](mailto:tyagivishal8583@gmail.com)  
-- ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg) **LinkedIn**: [linkedin.com/in/vishal-tyagi00](https://www.linkedin.com/in/vishal-tyagi00)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="20"> **Email**: [tyagivishal8583@gmail.com](mailto:tyagivishal8583@gmail.com)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e
